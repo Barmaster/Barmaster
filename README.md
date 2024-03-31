@@ -1,5 +1,9 @@
 ### Hi there 👋
+<script type="text/javascript">
+// JavaScript example
 
+alert(5);
+</script>
 <!--
 **Barmaster/Barmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
