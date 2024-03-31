@@ -1,4 +1,12 @@
 ### Hi there 👋
+<h3>Why I put Typescript instead of Javascript on my resume</h3>
+
+
+```mermaid
+pie
+    "I don't want to get more Java offers" : 90
+    "Any other reasons" : 10
+```
 <!--
 **Barmaster/Barmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
